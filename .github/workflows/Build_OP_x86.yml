@@ -41,7 +41,7 @@ jobs:
           /etc/php
         sudo -E apt-get -y purge \
           azure-cli \
-          ghc* \
+#          ghc* \
           zulu* \
           hhvm \
           llvm* \
